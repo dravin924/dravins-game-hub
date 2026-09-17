@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dravin924.github.io/dravins-game-hub/sitemap.xml
